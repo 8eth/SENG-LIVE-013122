@@ -94,11 +94,7 @@
 
 // Uncomment the code below to properly declare and assign a value to "x" using "const"
 
-// const x;
-
 // const x = 5;
-
-// const x;
 
 // console.log(`Success! x = ${x}`);
 
@@ -108,9 +104,7 @@
 
 // let y;
 
-// let y = 5;
-
-// let y;
+// y = 5;
 
 // console.log(`Success! y = ${y}`);
 
@@ -120,11 +114,9 @@
 
 // const a = 2;
 
-// a = 2;
-
 // let b;
 
-// let b = 4
+// b = 4
 
 // console.log(`Success! ${a} + ${a} = ${b}`);
 
@@ -133,14 +125,14 @@
 // 🚧 Break Out Activity 2: Using if...else
 
 // 🚧 Set a value for "time" between 0 and 24
-// let time;
+// let time = 14;
 
-// If "time" is less than or equal to 12...
-// if (❓) {
+// // If time is less than or equal to 12...
+// if (time <= 12) {
 
 // console.log(`${time} is in the AM.`)
 
-// In all other cases...
+// // In all other cases...
 // } else {
 
 // console.log(`${time} is in the PM.`)
